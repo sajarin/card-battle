@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Circular Medium;
+    src: url('./Circular Std Medium.ttf');
+}
+
 html, body {
     margin: 0;
     background-color: white;
